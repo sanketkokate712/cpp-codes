@@ -18,7 +18,7 @@ int main(){
                     cout << "*";
                }
           cout<<endl;
-          }a
+          }
 
         
         
