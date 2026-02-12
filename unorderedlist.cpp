@@ -12,13 +12,15 @@ int main() {
         freq[x]++;
     }
 
+    
+
     // Print frequencies
     for (auto it : freq) {
         cout << it.first << " -> " << it.second << endl;
     }
 
 
-    
+
     return 0;
 }
 
