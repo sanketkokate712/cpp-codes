@@ -8,11 +8,13 @@ int main() {
 
     unordered_map<int, int> freq;
 
+
+    
     for (int x : nums) {
         freq[x]++;
     }
 
-    
+
 
     // Print frequencies
     for (auto it : freq) {
