@@ -1,0 +1,15 @@
+# 1. Create a dummy file
+touch backdate.txt
+
+# 2. Run this loop to create commits from March 25 to April 5
+for i in {25..31}; do
+    echo "Commit for March $i" >> backdate.txt
+    git add backdate.txt
+    GIT_AUTHOR_DATE="2026-03-$i 12:00:00" GIT_COMMITTER_DATE="2026-03-$i 12:00:00" git commit -m "Work done on March $i"
+done
+
+for i in {01..05}; do
+    echo "Commit for April $i" >> backdate.txt
+    git add backdate.txt
+    GIT_AUTHOR_DATE="2026-04-$i 12:00:00" GIT_COMMITTER_DATE="2026-04-$i 12:00:00" git commit -m "Work done on April $i"
+done
