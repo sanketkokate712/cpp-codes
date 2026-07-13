@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sanketkokate712/cpp-codes/tree/master/0349-intersection-of-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sanketkokate712/cpp-codes/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
