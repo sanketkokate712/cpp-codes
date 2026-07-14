@@ -32,17 +32,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
