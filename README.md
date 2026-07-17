@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sanketkokate712/cpp-codes/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanketkokate712/cpp-codes/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sanketkokate712/cpp-codes/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanketkokate712/cpp-codes/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sanketkokate712/cpp-codes/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanketkokate712/cpp-codes/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sanketkokate712/cpp-codes/tree/master/0100-same-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanketkokate712/cpp-codes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanketkokate712/cpp-codes/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Number Theory
